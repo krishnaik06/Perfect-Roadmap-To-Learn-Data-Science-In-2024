@@ -123,6 +123,7 @@ https://docs.python.org/release/3.12.0/
 ### 8. Detailed Generative AI And LLM Playlist
 1. OPENAI Playlist English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=CbpsDMwFG2g&list=PLZoTAELRMXVMTWGW9iS45ZTcMsntos6VO)
 2. Langchain Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
+3. Google Gemini Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=CC6qMpqgUMU&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 
 ### Open Source Contribution [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
 
