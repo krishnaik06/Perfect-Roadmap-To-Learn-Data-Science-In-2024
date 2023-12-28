@@ -126,6 +126,10 @@ https://docs.python.org/release/3.12.0/
 
 ### Open Source Contribution [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
 
+## Use Of Chatgpt Or Google Bard Extensively 
+
+### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
+
 ## Internships:
 ![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
 
