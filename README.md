@@ -147,9 +147,3 @@ https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
 - Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join our Data Science Project
 - Instagram [![YouTube](https://img.shields.io/badge/Instagram-link-red)](https://instagram.com/krishnaik06)
 - Telegram  [![YouTube](https://img.shields.io/badge/Telegram-link-red)](https://t.me/+V0UeLG8ji-F8ThNb)
-
-
-
-
-
-
